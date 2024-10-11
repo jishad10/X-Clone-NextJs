@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function page() {
+export default function PostPage() {
   return (
     <div>
-      Home
+      PostPages
     </div>
   )
 }
