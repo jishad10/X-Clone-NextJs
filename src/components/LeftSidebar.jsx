@@ -26,6 +26,9 @@ export default function Sidebar() {
           </SignedOut>
         </button>
       </div>
+      <SignedIn>
+        <MiniProfile />
+      </SignedIn>
     </div>
   );
 }
